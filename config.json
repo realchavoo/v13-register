@@ -1,0 +1,54 @@
+{
+    "bot": {
+        "owner": "",
+        "prefix": ".",
+        "BotStatus": "Chavo 🌙  Wol of Türkiye",
+        "BotFooter": "chavo 🌙",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "",
+        "rollog": "",
+        "messagelog": "",
+        "seslog": ""
+    },
+    "roles": {
+        "team": ""
+    },
+    "channels": {
+        "chat": "1085007208867184670",
+        "voicechannel": "1098217990341791744",
+        "welcomechannel": "1089373918697103440",
+        "rules": "1085007201921405000"
+    },
+    "registration": {
+        "unregistered": "1085219724650090577",
+        "man": ["1085007188956819567", "",""],
+        "woman": ["1085008832285118474", "",""],
+		"botcommands": ["1085221900252352562", "1102317104323117167"],
+        "staff": "1103272809209274399",
+        "GuilDTag": "𓅓",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1103161907441045534",
+        "susoeciosnickname": "1103161907441045534",
+        "yasaklıtag": "1103161907441045534",
+        "oneman": "1103161907441045534",
+        "onewoman": "1103161907441045534",
+        "GuildDiscrim": "Tagımızı alır mısın rica etsem :) ♥",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1084981534165041263",
+        "GuilDName": "𓅓 [  Wol of Türkiye ] 🔷",
+        "GuildOwnerRole": ["489363836105654273","","",""]
+    },
+    "emojis": {
+        "tada": "cekilis emojisi",
+        "yes": "onay emojisi",
+        "no": "red emojisi"
+        }
+    }
+    
